@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "RICK TIMMERMANS | PORTFOLIO",
-    "currentPage": "contact.html",
+    "currentPage": "portfolio.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -37,7 +37,7 @@
     },
     "versionFirst": "4.3.4",
     "uniqCompNum": 263,
-    "versionPublish": "4.6.2",
+    "versionPublish": "4.6.6",
     "siteUrl": "https://ricktimmermans.github.io/",
     "sitemapSwitcherAuto": "on",
     "path": "@PROJECT_PATH@",
