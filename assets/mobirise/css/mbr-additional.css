@@ -13305,19 +13305,31 @@ body {
   color: #232323;
   text-align: center;
 }
-.cid-reRWDNGYE6 {
+.cid-reS3uvw0CM {
   padding-top: 90px;
   padding-bottom: 90px;
-  background: linear-gradient(0deg, #2e2e2e, #2e2e2e);
+  background-color: #2e2e2e;
 }
-.cid-reRWDNGYE6 .mbr-iconfont-social {
-  font-size: 32px;
-  color: #b1a374;
+.cid-reS3uvw0CM [class^="socicon-"]:before,
+.cid-reS3uvw0CM [class*=" socicon-"]:before {
+  line-height: 44px;
 }
-.cid-reRWDNGYE6 .social-list a:focus {
-  text-decoration: none;
+.cid-reS3uvw0CM .btn-social {
+  border-color: #b1a374;
 }
-.cid-reRWDNGYE6 H2 {
+.cid-reS3uvw0CM .btn-social:hover {
+  background: #b1a374;
+}
+.cid-reS3uvw0CM .btn-social:hover i.socicon {
+  color: #ffffff !important;
+}
+@media (max-width: 767px) {
+  .cid-reS3uvw0CM .btn {
+    font-size: 20px !important;
+  }
+}
+.cid-reS3uvw0CM .btn-social,
+.cid-reS3uvw0CM .mbr-section-title B {
   color: #ffffff;
 }
 .cid-qDmdwKTkjy {
