@@ -24057,6 +24057,15 @@ body {
   padding-bottom: 60px;
   background-image: url("../../../assets/images/mbr-2-1620x1080.jpg");
 }
+.cid-rnIGxPTTUe {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-rnIGxPTTUe .mbr-text,
+.cid-rnIGxPTTUe blockquote {
+  color: #767676;
+}
 .cid-rnIATtZzIU {
   padding-top: 60px;
   padding-bottom: 60px;
@@ -24077,7 +24086,7 @@ body {
   text-align: left;
 }
 .cid-rnIByOAyMv {
-  padding-top: 60px;
+  padding-top: 0px;
   padding-bottom: 60px;
   background-color: #ffffff;
 }
